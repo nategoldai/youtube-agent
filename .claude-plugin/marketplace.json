@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "youtube-agent",
+  "description": "The YouTube agent skill pack for Claude, by NateGold",
+  "owner": { "name": "NateGold", "url": "https://github.com/nategoldai" },
+  "plugins": [
+    {
+      "name": "youtube-agent",
+      "description": "Ten Claude skills that help run a YouTube channel, including a scored hook panel, a title and thumbnail checker, an edit decision list, a retention reader and a viral research tool.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/nategoldai/youtube-agent"
+    }
+  ]
+}
